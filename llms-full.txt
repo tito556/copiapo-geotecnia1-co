@@ -1,0 +1,51 @@
+# Geotecnia1 — Copiapó
+
+> Geotechnical engineering services in Copiapó, Chile.
+
+## Services
+- [Aislacion Sismica](https://copiapo.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://copiapo.geotecnia1.co/anclajes/)
+- [Calicatas Exploratorias](https://copiapo.geotecnia1.co/calicatas-exploratorias/)
+- [Cbr Vial](https://copiapo.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://copiapo.geotecnia1.co/cimentaciones/)
+- [Cimentaciones Superficiales](https://copiapo.geotecnia1.co/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://copiapo.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://copiapo.geotecnia1.co/ensayo-cpt/)
+- [Ensayo Triaxial](https://copiapo.geotecnia1.co/ensayo-triaxial/)
+- [Estabilidad Taludes](https://copiapo.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://copiapo.geotecnia1.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://copiapo.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://copiapo.geotecnia1.co/exploracion/)
+- [Geofisica](https://copiapo.geotecnia1.co/geofisica/)
+- [Geotecnia Vial](https://copiapo.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://copiapo.geotecnia1.co/granulometria/)
+- [Grouting](https://copiapo.geotecnia1.co/grouting/)
+- [Laboratorio In Situ](https://copiapo.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://copiapo.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://copiapo.geotecnia1.co/licuefaccion/)
+- [Limites Atterberg](https://copiapo.geotecnia1.co/limites-atterberg/)
+- [Losa De Cimentacion](https://copiapo.geotecnia1.co/losa-de-cimentacion/)
+- [Masw Vs30](https://copiapo.geotecnia1.co/masw-vs30/)
+- [Mejoramiento](https://copiapo.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://copiapo.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://copiapo.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://copiapo.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://copiapo.geotecnia1.co/pavimento-flexible/)
+- [Pavimento Rigido](https://copiapo.geotecnia1.co/pavimento-rigido/)
+- [Permeabilidad Campo](https://copiapo.geotecnia1.co/permeabilidad-campo/)
+- [Pilotes](https://copiapo.geotecnia1.co/pilotes/)
+- [Placa De Carga](https://copiapo.geotecnia1.co/placa-de-carga/)
+- [Resistividad Electrica Sev](https://copiapo.geotecnia1.co/resistividad-electrica-sev/)
+- [Sismica](https://copiapo.geotecnia1.co/sismica/)
+- [Sondaje Spt](https://copiapo.geotecnia1.co/sondaje-spt/)
+- [Taludes](https://copiapo.geotecnia1.co/taludes/)
+- [Tomografia Sismica](https://copiapo.geotecnia1.co/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://copiapo.geotecnia1.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://copiapo.geotecnia1.co/vibrocompactacion/)
+
+## Contact
+- Website: https://copiapo.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Copiapó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
